@@ -6,7 +6,7 @@ This application comes as an answer to the time-consuming task of manually segme
 
 Feel free to contact me! Here is my email: afo.rebelo@campus.fct.unl.pt.
 
-![All text](https://github.com/aforebelo/HARTA/blob/main/Screenshopts/5_Semiautomatic_result.png)
+![All text](https://github.com/aforebelo/HARTA/blob/main/Screenshots/5_Semiautomatic_result.png)
 
 ## Getting Started
 To use HARTA, follow the next steps:

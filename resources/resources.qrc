@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="aux">
+    <file>info.png</file>
+    <file>logo.png</file>
+    <file>logo_w.png</file>
+    <file>default_txt.png</file>
+    <file>default.png</file>
+    <file>edited_successfully_bg.png</file>
+    <file>default_image.jpg</file>
+    <file>loading.gif</file>
+  </qresource>
+</RCC>

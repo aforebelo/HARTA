@@ -23,5 +23,6 @@ Ana Filipa Rebelo
 ## Acknowledgments 
 This project was supervised by:
 - Prof. Dr. José Manuel Fonseca, Associate Professor in the Departement of  Electrical Engineering in NOVA Scholl of Science and Technology of NOVA University of Lisbon.
+
 With great insights from:
 - Doctor António Miguel Ferreira, Cardiologist in Hospital Santa Cruz of Western Lisbon Hospital Center.

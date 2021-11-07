@@ -31,6 +31,9 @@ If you do not own any cardiac CT in DICOM format, you can use the public [Visual
 ## Version
 1.0.0
 
+## License
+HARTA follows [CC-BY-NC-4.0 license](https://github.com/aforebelo/HARTA/blob/main/LICENSE), being freely available for academic purpose or individual research, however it is restricted for commercial use.
+
 ## Authors
 Ana Filipa Rebelo
  

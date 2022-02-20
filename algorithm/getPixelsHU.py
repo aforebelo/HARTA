@@ -1,4 +1,5 @@
 import numpy as np
+import pylibjpeg 
 
 def get_pixels_hu(scans):
     image = np.stack([s.pixel_array for s in scans])

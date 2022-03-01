@@ -1,5 +1,5 @@
 # HARTA - Epicardial Fat Segmentation and Quantification Software
-HARTA is software developed in the context of a master thesis project (ongoing).
+HARTA is software developed in the context of a master thesis project.
 - Rebelo, A. F. O. (2021). Semi-automatic approach for epicardial fat segmentation and quantification on non-contrast cardiac CT. Dissertation submitted in partial fulfillment of the requirements for the degree of Master of Science in Biomedical Engineering, NOVA University of Lisbon, NOVA Scholl of Science and Technology. Retrieved from: [coming soon]
 
 This application comes as an answer to the time-consuming task of manually segmenting epicardial fat on CT images. The proposed algorithm uses exclusively basic image operations, so no training steps are required. This software must be seen as a prototype that can be upgraded and optimized with the community's suggestions.

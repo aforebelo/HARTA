@@ -13,7 +13,7 @@ To use HARTA, follow the next steps:
 1. Install Python 3.8.3
 2. Access to the environment variables of Windows
 3. Open the directory of Python
-4. Copy the Python folder path (e.g., C:\Python38\) and the folder Scripts path (e.g., C:\Python39\Scripts\)
+4. Copy the Python folder path (e.g., C:\Python38\) and the folder Scripts path (e.g., C:\Python38\Scripts\)
 5. Download and extract the zip file of this repository
 6. Open the terminal in the folder
 7. Run the following lines
